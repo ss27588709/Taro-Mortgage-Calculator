@@ -2,7 +2,8 @@ export default {
   pages: [
     "pages/calculator/index",
     "pages/calculator/monthly-payments/index",
-    "pages/calculator/history/index"
+    "pages/calculator/history/index",
+    'pages/bazi/index'
   ],
   window: {
     backgroundTextStyle: "light",
